@@ -1,0 +1,36 @@
+body {
+	background: #111013;
+	height: 100vh;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+#c1 {
+	background: #111013;
+}
+
+#btn {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+}
+
+#c1 {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+}
+
+#main {
+	transform-origin: 0px 0px;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+}
+
+#config {
+	position: fixed;
+	left: 0px;
+	top: 30px;
+	display: none;
+}
